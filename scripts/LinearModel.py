@@ -1,10 +1,11 @@
-import torch
-import numpy as np
 from torch import Tensor
 from torch.autograd import Variable
 from torch.nn import Module, Linear, MSELoss
 from torch.optim import SGD
 
+#######################
+#   Hyperparameters   #
+#######################
 
 ###################
 #   Define X, Y   #
