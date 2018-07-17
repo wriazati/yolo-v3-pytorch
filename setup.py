@@ -31,6 +31,8 @@ reqs = [
     'jupyter',
 	'numpy',
     'pillow',
+    'sklearn',
+    'scipy',
 ]
 
 extras = {
